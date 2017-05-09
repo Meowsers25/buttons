@@ -1,0 +1,31 @@
+div.red {
+height: 50px;
+width: 150px;
+border: 4px solid black;
+text-align: center;
+color: yellow;
+background-color: red;
+border-radius: 10%;
+box-shadow: 10px 10px 5px #888888;
+vertical-align: middle;
+font-size: 40px;
+transition: width 2s;
+}
+
+div:hover {
+    width: 300px;
+}
+
+div.image {
+
+width: 50px;
+height: auto;
+content: url("https://static.vecteezy.com/system/resources/previews/000/045/736/non_2x/3d-checkmark-vector.jpg");
+border: 3px solid red;
+border-radius: 10%;
+box-shadow: 10px 10px 5px #888888;
+
+
+
+
+}
